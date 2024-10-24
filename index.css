@@ -76,3 +76,14 @@
   padding: 10px;
   border: 1px solid black;
 }
+.status-button {
+  margin-top: 3rem;
+  float: right;
+}
+.logged-in {
+  color: green;
+}
+
+.logged-out {
+  color: red;
+}
